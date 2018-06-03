@@ -1,1 +1,2 @@
-# mp7_pirates_of_the_code_bean_2
+# Mp7 - Pirates of the Code-Bean #2 (Dead Man’s Chest)
+Jack Sparrow must talk with the voodoo priestess Tia Dalma to find out where the Dutchman is. Once he has its location, he will find the Dead Man’s Chest and say what he found inside. The Jack Sparrow app must send a get request to Tia Dalma’s /dutchman endpoint. It will then receive the URL of the Dutchman’s app. Once recovered, Jack Sparrow will perform a get request to the Dutchman’s /deadmanschest endpoint to obtain it and display a string that will be stored within. 
